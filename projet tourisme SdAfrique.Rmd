@@ -1,0 +1,17 @@
+---
+title: "Projet tourisme SDAfrique"
+author: "Asta_Astou"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Problématique
+# Objectifs
+# Méthodologie envisagée
+# Résultats attendus
+
+
